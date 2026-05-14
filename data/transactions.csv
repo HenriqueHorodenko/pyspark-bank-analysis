@@ -1,5 +1,5 @@
-id_cliente,valor,data_hora,cidade
-1,120.50,2026-01-01 10:00:00,Sao Paulo
-1,5400.00,2026-01-01 10:05:00,Sao Paulo
-2,90.00,2026-01-02 09:00:00,Rio de Janeiro
-3,250.00,2026-01-02 11:30:00,Curitiba
+client_id;value;date_hour;city
+1;120,50;2026-01-01 10:00:00;Sao Paulo
+1;5400,00;2026-01-01 10:05:00;Sao Paulo
+2;90,00;2026-01-02 09:00:00;Rio de Janeiro
+3;250,00;2026-01-02 11:30:00;Curitiba
