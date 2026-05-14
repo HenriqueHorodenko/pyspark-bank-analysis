@@ -45,7 +45,7 @@ O objetivo foi praticar visualização de dados e criação de indicadores simpl
 # Estrutura do projeto
 
 ```text
-bank-transactions-pyspark/
+pyspark-bank-analysis/
 │
 ├── data/
 │   └── transactions.csv
