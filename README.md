@@ -15,6 +15,23 @@ A ideia do projeto foi praticar manipulação e análise de dados em um cenário
 
 ---
 
+# Dashboard no Power BI
+
+Além da análise em PySpark, também foi criado um dashboard no Power BI para visualizar os dados de forma mais intuitiva.
+
+O dashboard apresenta:
+
+- total movimentado
+- média das transações
+- quantidade de clientes
+- transações por cidade
+- movimentação por cliente
+- identificação de transações suspeitas
+
+O objetivo foi praticar visualização de dados e criação de indicadores simples utilizados em análise financeira e de negócio.
+
+---
+
 # Objetivos do projeto
 
 - Ler e tratar dados com PySpark
