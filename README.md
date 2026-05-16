@@ -86,7 +86,6 @@ client_expenses = df.groupBy("client_id") \
 
 # Possíveis melhorias futuras
 
-- adicionar dashboard em Power BI
 - utilizar Machine Learning para fraude
 - trabalhar com dados em tempo real
 - criar análises mais avançadas de comportamento
